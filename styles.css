@@ -103,5 +103,5 @@ body {
     font-size: 40px; /* Adjust the icon size as needed */
 }
 .fa-bookmark {
-    justify-content: flex end; /* Shift the bookmark icon to the right */
+    margin-left: auto; /* Shift the bookmark icon to the right */
 }
